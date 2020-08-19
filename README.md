@@ -1,42 +1,50 @@
-<h1 align="center">Welcome to 02-Homework 👋</h1>
-<p>
-</p>
+# readmegeneratornew
 
-## Table of Contents
-- Installation
-- Usage
-- Credits
-- License 
 
-<p>
-</p>
+## Description
 
-## Installation 
-- Create a repositoty in GitHub
+generating a readme 
 
-<p>
-</p>
+## Table of Contents 
+
+* [Installation](#installation)
+
+* [Usage](#usage)
+
+* [Contributing](#contributing)
+
+* [Tests](#tests)
+
+* [Questions](#questions)
+
+## Installation
+
+To install necessary dependencies, run the following command:
+
+```
+npm install
+```
 
 ## Usage
 
-- This provides instructions as to what my project entails. I will provide a screenshot of the final outcome. 
-
-<p>
-</p>
-
-## Collaborators 
-
-- ME, MYSELF, AND I
-
-<p>
-</p>
-
-## License 
-
-- You can use this to your advantage by taking a look at what I have created and gaining ideas for what you can use for yours. 
+backend only
 
 
+  
+## Contributing
 
+YOU CANT
 
-Give a ⭐️ if this project helped you!
+## Tests
+
+To run tests, run the following command:
+
+```
+npm test
+```
+
+## Questions
+
+If you have any questions about the repo, open an issue or contact me directly at emileejo@yahoo.com.
+ You can find more of my work at [emileereiter](https://github.com/emileereiter/).
 
